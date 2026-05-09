@@ -2,6 +2,7 @@
 
 - [49b88dd5-34b9-457a-8457-0c30ea7a08f0](./49b88dd5-34b9-457a-8457-0c30ea7a08f0)
 - [Georgia-ReBORN_v3.0-RC3](./Georgia-ReBORN_v3.0-RC3)
+- [RockyLinuxRpi_9-latest.img](./RockyLinuxRpi_9-latest.img)
 - [foobar2000-x64_v2.25.8](./foobar2000-x64_v2.25.8)
 - [foobar2000_v2.25.8](./foobar2000_v2.25.8)
 
